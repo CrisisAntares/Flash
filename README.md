@@ -1,3 +1,3 @@
 # Flash
-It can use raspberry pi pico.
-Simple LED code (LED is inclde Raspberry pi pico)
+It can use in raspberry pi pico.
+Simple LED code! (LED incldes Raspberry pi pico)
